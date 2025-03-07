@@ -1,5 +1,5 @@
 # DP-900-Azure-Data-Fundamentals-Study-Guide
-Comprehensive study guide for Azure Dta Fundamentals (DP-900) certification
+Comprehensive study guide for Azure Data Fundamentals (DP-900) certification
 
 ## Welcome to the Azure Data Fundamentals (DP-900) Study Guide!
 
